@@ -1,0 +1,8 @@
+{
+    "weather": {
+        "port": 10000,
+        "api_key": "vasiot api key",
+        "cache_expiry": 60,
+        "API_URL": "https://api.openweathermap.org/data/2.5"
+    }
+}

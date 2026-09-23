@@ -1,0 +1,16 @@
+{
+  "name": "c1",
+  "version": "1.0.0",
+  "description": "- in this context (API) the word Application refers to any software with a distinct function\r     - the word Programming refers to that it is coded(programed)\r     - Interface can be thought of as a contract of service, behavior between two applications or parts of the same application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.3",
+    "express": "^5.2.1"
+  }
+}
