@@ -1,0 +1,2 @@
+Priprema za vo ponedelnik: napravete istrazuvanje za drugi sistemi kako Mailgun (provider) koi ovozmozuvaat
+isprakanje na mejlovi, i na ninite SDK i biblioteki (Primer: SendGrid)

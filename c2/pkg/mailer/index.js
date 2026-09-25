@@ -46,7 +46,7 @@ const sendMail = async(to, type, data) => {
     };
 
     try{
-        const res = await mg.message.create(
+        const res = await mg.messages.create(
             config.getSection("development").domain,
             options
         );
